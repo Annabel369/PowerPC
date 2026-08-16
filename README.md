@@ -4,6 +4,24 @@
 
 https://drive.google.com/file/d/1BuEBzf2uvRau-ljMLVMNyh2rkMTebsRV/view?usp=sharing
 
+
+O Mac OS 9 não tem terminal Unix nativo. E essa é uma das grandes curiosidades da história da Apple!
+
+  Até o Mac OS 9, o sistema operacional da Apple era algo totalmente "alienígena" comparado ao Linux ou Windows. Ele tinha um núcleo (kernel) 100% próprio focado quase exclusivamente em interface gráfica, sem
+  o conceito tradicional de linha de comando por baixo.
+
+  A Apple só migrou para o Unix (usando a base do BSD) anos mais tarde, quando Steve Jobs voltou para a empresa e eles lançaram o Mac OS X (Mac OS 10).
+
+  Porém, se você fosse um programador "hardcore" na época do Mac OS 9 e quisesse muito uma linha de comando, você tinha duas opções:
+
+  1. MPW (Macintosh Programmer's Workshop): Era uma ferramenta oficial da Apple para desenvolvedores que tinha um "terminal" embutido. Ele aceitava comandos parecidos com Unix misturados com a linguagem
+  AppleScript.
+  2. MachTen: Era um software genial de terceiros que rodava um núcleo BSD Unix inteiro e real como se fosse um aplicativo "dentro" do Mac OS 9!
+
+  Se você estiver sentindo falta do terminal preto com as letrinhas verdes, a experiência no Mac Clássico vai ser um pouco frustrante. Nele, se você quisesse automatizar coisas, tinha que escrever parágrafos
+  em inglês usando o AppleScript em vez de usar os comandos de Bash do Unix!
+  
+
   O seu novo arquivo bruto está pronto e salvo aqui:
   /home/astral/Downloads/macos9_hd.img
 
