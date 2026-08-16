@@ -2,6 +2,8 @@
 
 <img width="1517" height="688" alt="Gemini_Generated_Image_cjlivwcjlivwcjli" src="https://github.com/user-attachments/assets/c5fd6c41-b7b0-4745-8bde-9f85a59bc182" />
 
+https://drive.google.com/file/d/1BuEBzf2uvRau-ljMLVMNyh2rkMTebsRV/view?usp=sharing
+
   O seu novo arquivo bruto está pronto e salvo aqui:
   /home/astral/Downloads/macos9_hd.img
 
