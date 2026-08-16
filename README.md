@@ -19,6 +19,7 @@ https://drive.google.com/file/d/1BuEBzf2uvRau-ljMLVMNyh2rkMTebsRV/view?usp=shari
   sudo dd if=/home/astral/Downloads/macos9_hd.img of=/dev/sdX bs=4M status=progress
 
   Se o Mac de destino for um modelo PowerPC ou até mesmo um dos últimos modelos 68k compatíveis, você plugará a placa BlueSCSI/SD nele e ele dará um sorriso na tela (o clássico "Happy Mac") carregando o Mac
+<img width="435" height="379" alt="image" src="https://github.com/user-attachments/assets/db805526-71d1-4911-835e-6e7865f70412" />
 
 
     ### 1. Metrowerks CodeWarrior (A IDE "Rainha" dos anos 90)
