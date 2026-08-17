@@ -35,15 +35,18 @@ O Mac OS 9 não tem terminal Unix nativo. E essa é uma das grandes curiosidades
 
   1. Plugar o Cartão SD/CF ou o HD do Mac no seu computador Linux.
   2. Descobrir qual a letra da unidade dele (por exemplo /dev/sdX).
-  3. Gravar a imagem usando um programa gráfico como o BalenaEtcher (é a forma mais segura) ou usar o comando raiz do Linux no terminal:<img width="1915" height="1079" alt="Captura de tela de 2026-08-16 03-23-47" src="https://github.com/user-attachments/assets/c1536672-3650-43ee-86f1-0d929910ace3" />
+  3. Gravar a imagem usando um programa gráfico como o BalenaEtcher (é a forma mais segura) ou usar o comando raiz do Linux no terminal:
+
+<img width="475" height="412" alt="Captura de tela de 2026-08-16 01-24-29" src="https://github.com/user-attachments/assets/99aaab05-893a-4700-b174-4f337a585ffc" />
+<img width="435" height="379" alt="image" src="https://github.com/user-attachments/assets/db805526-71d1-4911-835e-6e7865f70412" />
 
   sudo dd if=/home/astral/Downloads/macos9_hd.img of=/dev/sdX bs=4M status=progress
 
   Se o Mac de destino for um modelo PowerPC ou até mesmo um dos últimos modelos 68k compatíveis, você plugará a placa BlueSCSI/SD nele e ele dará um sorriso na tela (o clássico "Happy Mac") carregando o Mac
 
   
-<img width="435" height="379" alt="image" src="https://github.com/user-attachments/assets/db805526-71d1-4911-835e-6e7865f70412" />
 
+<img width="1915" height="1079" alt="Captura de tela de 2026-08-16 03-23-47" src="https://github.com/user-attachments/assets/c1536672-3650-43ee-86f1-0d929910ace3" />
 
     ### 1. Metrowerks CodeWarrior (A IDE "Rainha" dos anos 90)
 
