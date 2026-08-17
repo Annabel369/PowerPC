@@ -14,6 +14,9 @@ O Mac OS 9 não tem terminal Unix nativo. E essa é uma das grandes curiosidades
 
   A Apple só migrou para o Unix (usando a base do BSD) anos mais tarde, quando Steve Jobs voltou para a empresa e eles lançaram o Mac OS X (Mac OS 10).
 
+  <img width="609" height="489" alt="image" src="https://github.com/user-attachments/assets/f8b502b6-4475-47bc-ba01-025705f32284" />
+
+
   Porém, se você fosse um programador "hardcore" na época do Mac OS 9 e quisesse muito uma linha de comando, você tinha duas opções:
 
   1. MPW (Macintosh Programmer's Workshop): Era uma ferramenta oficial da Apple para desenvolvedores que tinha um "terminal" embutido. Ele aceitava comandos parecidos com Unix misturados com a linguagem
