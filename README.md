@@ -35,10 +35,13 @@ O Mac OS 9 não tem terminal Unix nativo. E essa é uma das grandes curiosidades
 
   1. Plugar o Cartão SD/CF ou o HD do Mac no seu computador Linux.
   2. Descobrir qual a letra da unidade dele (por exemplo /dev/sdX).
-  3. Gravar a imagem usando um programa gráfico como o BalenaEtcher (é a forma mais segura) ou usar o comando raiz do Linux no terminal:
+  3. Gravar a imagem usando um programa gráfico como o BalenaEtcher (é a forma mais segura) ou usar o comando raiz do Linux no terminal:<img width="1915" height="1079" alt="Captura de tela de 2026-08-16 03-23-47" src="https://github.com/user-attachments/assets/c1536672-3650-43ee-86f1-0d929910ace3" />
+
   sudo dd if=/home/astral/Downloads/macos9_hd.img of=/dev/sdX bs=4M status=progress
 
   Se o Mac de destino for um modelo PowerPC ou até mesmo um dos últimos modelos 68k compatíveis, você plugará a placa BlueSCSI/SD nele e ele dará um sorriso na tela (o clássico "Happy Mac") carregando o Mac
+
+  
 <img width="435" height="379" alt="image" src="https://github.com/user-attachments/assets/db805526-71d1-4911-835e-6e7865f70412" />
 
 
@@ -48,6 +51,8 @@ O Mac OS 9 não tem terminal Unix nativo. E essa é uma das grandes curiosidades
   • Linguagens: C e C++ (principalmente).
   • Por que era tão incrível? Quando a Apple mudou os processadores dos antigos Motorola 68k para os novos PowerPC (em 1994), o CodeWarrior salvou a vida dos programadores. A IDE deles era super rápida e
   conseguia compilar o mesmo código para as duas arquiteturas facilmente. Ele tinha uma interface gráfica excelente, com debuggers poderosos, desbancando quase todos os concorrentes.
+
+
 
   ### 2. Macintosh Programmer's Workshop (MPW)
 
